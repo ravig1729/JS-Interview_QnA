@@ -605,3 +605,8 @@ Callback Hell is an anti-pattern with multiple nested callbacks which makes code
 The Event Loop is a queue of callback functions. When an async function executes, the callback function is pushed into the queue. The JavaScript engine doesn't start processing the event loop until the async function has finished executing the code. Note: It allows Node.js to perform non-blocking I/O operations even though JavaScript is single-threaded.
 
 
+
+Disclaimer
+The questions provided in this repository are the summary of frequently asked questions across numerous companies.  
+
+Good luck with your interview 😊
