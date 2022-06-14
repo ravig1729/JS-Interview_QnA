@@ -610,8 +610,6 @@ The Event Loop is a queue of callback functions. When an async function executes
 
 
 
-
- Disclaimer::::::::::::
-The questions provided in this repository are the summary of frequently asked questions across numerous companies.  
+ 
 
 Good luck with your interview 😊
