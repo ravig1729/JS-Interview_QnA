@@ -163,7 +163,7 @@ The syntax would be as below,
     });
 
 ## 13. What is IIFE?
-IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined. The signature of it would be as below,
+IIFE (Immediately Invoked Function Expression) is a JavaScript function that runs as soon as it is defined. The signature of it would be as below, or it is a way to execute function immedately as soon as they are created , this is the way to present the function and variable from polluting the global on=bject is to use IIFE.
 
     (function () {
       // logic here
