@@ -243,7 +243,6 @@ A callback function is a function passed into another function as an argument. T
 ## 19. What is the generator function?
 ES6 introduced a new way of working with functions and iterators in the form of Generators (or generator functions). A generator is a function that can stop midway and then continue from where it stopped. In short, a generator appears to be a function but it behaves like an iterator.
 
-A generator is a function that can stop midway and then continue from where it stopped.
 Here are some other common definitions of generators —
   1. Generators are a special class of functions that simplify the task of writing iterators.
   2. A generator is a function that produces a sequence of results instead of a single value, i.e you generate ​a series of values.
